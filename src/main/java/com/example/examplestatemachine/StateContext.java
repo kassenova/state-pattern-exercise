@@ -36,19 +36,6 @@ public boolean isAccept() {
 	} else {
 	return false; 
 	}
-//	if (start == "A") {
-//		if (this.s == acceptState) {
-//			return true; 
-//	 } else {
-//		return false; 
-//	 }
-//	} else {
-//		if (this.s == rejectState) {
-//			return true;
-//		} else {
-//			return false; 
-//		}
-//	}
 }
 
 public State getAcceptState() {
